@@ -20,7 +20,7 @@ The model achieves state-of-the-art performance on the XD-Violence benchmark and
 ## Framework
 
 <p align="center">
-  <img src="figures/HCATRE_AVAD_Framework.png" width="900">
+  <img src="framework.png" width="900">
 </p>
 
 The proposed framework consists of:
