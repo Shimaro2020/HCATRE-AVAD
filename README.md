@@ -227,9 +227,9 @@ The model provides:
 
 This work was conducted at:
 
-* School of Computer Science and Communication Engineering, Jiangsu University, China
-* Faculty of Computing and Information Systems, Ghana Communication Technology University, Ghana
-* Koforidua Technical University, Ghana
+* School of Computer Science and Communication Engineering, Jiangsu University, Zhenjiang, Jiangsu, China
+* Faculty of Computing and Information Systems, Ghana Communication Technology University, Accra, Ghana
+* Faculty of Applied Science and Technology, Koforidua Technical University, Koforidua, Ghana
 
 ---
 
