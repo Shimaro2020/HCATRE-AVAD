@@ -59,12 +59,12 @@ The proposed framework consists of:
 
 ### UCF-Crime
 
-| Method      | AUC (%) |
-| ----------- | ------- |
-| RTFM        | 81.20   |
-| MIST        | 82.30   |
-| REWARD      | 87.48   |
-| HCATRE-AVAD | 82.47   |
+| Method          | AUC (%)   |
+| --------------- | ----------|
+| RTFM            | 81.20     |
+| MIST            | 82.30     |
+| REWARD          | 87.48     |
+| **HCATRE-AVAD** | **82.47** |
 
 ---
 
