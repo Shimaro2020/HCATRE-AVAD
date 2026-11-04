@@ -239,4 +239,4 @@ This work was conducted at:
 
 📄 DOI: 10.1016/j.imavis.2026.106072
 
-💻 Source code and pretrained models will be released upon publication.
+💻 Source code and pretrained models will be released soon.
